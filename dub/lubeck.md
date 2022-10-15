@@ -1,12 +1,12 @@
 # Lubeck
 
-High level linear algebra library based on CBLAS, LAPACK and Mir Algorithm.
+کتابخانه جبر خطی سطح بالا بر اساس الگوریتم CBLAS، LAPACK و Mir.
 
 ## Dependencies
-Lubeck depends on CBLAS and LAPACK API. You may need to install them and update `dub.sdl`.
-CBLAS and LAPACK are preinstalled on MacOS.
-[OpenBLAS](http://www.openblas.net) or [Intel MKL](https://software.intel.com/en-us/mkl)
-backends are recommeded for Linux and Windows.
+Lubeck به CBLAS و LAPACK API نیاز دارد. ممکن است لازم باشد آنها را نصب کرده و «dub.sdl» را به روز کنید
+CBLAS و LAPACK از قبل روی MacOS نصب شده اند.
+[OpenBLAS](http://www.openblas.net) یا [Intel MKL](https://software.intel.com/en-us/mkl)
+backends پیشنهاد میشه برای ویندوز و لینوکس.
 
 ## Links
 
